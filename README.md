@@ -7,7 +7,7 @@ The following is the original text of the main branch:</br>
 * URL of the original project author: [xiaozhi-esp32](https://github.com/78/xiaozhi-esp32)</br>
 * [***bilibili演示视频***](https://b23.tv/GbXeLHX)</br>
 * [***Watch the demo video on Bilibili***](https://b23.tv/GbXeLHX)</br>
-* Not available on Youtube because author is in China. </br>
+* Not available on Youtube because author is in China. Visiting the website is very difficult and it is illegal to use a VPN to visit it in China.</br>
 * **注意需要手动修改脚本中的全局变量MAC_ADDR**,以区分不同的客户端</br>
 * **Note that you need to manually modify the global variable MAC_ADDR in the script**, to differentiate between different clients. </br>
 * **按住空格键发起对话**</br>
