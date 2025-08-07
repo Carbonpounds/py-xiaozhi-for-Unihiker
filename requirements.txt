@@ -1,7 +1,8 @@
-# python=3.12.8
+# python=3.8.5
 requests==2.31.0
 paho-mqtt==2.1.0
 PyAudio==0.2.14
 pynput==1.7.7
 opuslib==3.0.1
 cryptography==44.0.0
+# Mind+用户直接在库管理中使用PIP模式输入即可安装，一定要连同版本号，如安装requests库时要输入：request==2.31.0
