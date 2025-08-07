@@ -1,5 +1,5 @@
 # python=3.12.8
-requests==2.32.3
+requests==2.31.0
 paho-mqtt==2.1.0
 PyAudio==0.2.14
 pynput==1.7.7
