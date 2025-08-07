@@ -44,7 +44,7 @@ Start here↓
 * 源代码对行空板做了适配与GUI界面，激活对话方式有4种。本分支仅收录其中一种：按键，其余3种请移步至原帖。</br>
 * The source code adapts the Unihiker and add a GUI, and there are 4 ways to activate the dialogue. This branch only includes one of them: buttons, and the other three types please move to the original post.</br>
 * 文件中的**speaker.py**为没有扬声器的用户提供了使用[DFR0760 离线语音合成模块](https://www.dfrobot.com.cn/goods-3014.html)作为替代品的方案</br>
-* The **speaker.py** in the file provides an alternative to using the [DFR0760 offline speech synthesis module](https://www.dfrobot.com.cn/goods-3014.html) for users who do not have speakers
+* The **speaker.py** in the file provides an alternative to using the [Gravity: Text to Speech Voice Synthesizer Module V2.0 for Arduino and ESP32](https://www.dfrobot.com/product-2234.html) for users who do not have speakers
 
 ## 如何使用
 ***How to use***</br>
