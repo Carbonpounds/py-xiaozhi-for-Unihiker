@@ -25,7 +25,7 @@ python py-xiaozhi.py
 * main分支可用于跨平台使用（不知道啥意思的直接下载.py文件去用，这一段你没必要看）。行空板自带Linux操作系统和python环境，理论上本项目可以用于行空板的Linux操作系统。</br>
 * 主要源代码来源于 DFRobot社区 云天 [**原帖**](https://mc.dfrobot.com.cn/thread-324368-1-1.html)</br>
 * 源代码对行空板做了适配与GUI界面，激活对话方式有4种。本分支仅收录其中一种：按键，其余3种请移步至原帖。</br>
-* 文件中的```speaker.py```为没有扬声器的用户提供了使用[DFR0760 离线语音合成模块](https://www.dfrobot.com.cn/goods-3014.html)作为替代品的方案</br>
+* 文件中的**speaker.py**为没有扬声器的用户提供了使用[DFR0760 离线语音合成模块](https://www.dfrobot.com.cn/goods-3014.html)作为替代品的方案</br>
 
 ## 如何使用
 * 按下A键开始讲话，按下B键结束。</br>
