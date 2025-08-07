@@ -53,6 +53,6 @@ Start here↓
 * 如果使用语音合成模块，参考接线图：</br>
 * If using the speech synthesis module, refer to the wiring diagram:</br>
 [![1.png](https://i.postimg.cc/FzR35XQN/1.png)](https://postimg.cc/gXCn85JT)
-* 使用IO扩展板的接线：</br>
-* Using the I/O expansion:</br>
+* 使用[IO扩展板](https://www.dfrobot.com.cn/goods-1966.html)的接线：</br>
+* Using the [I/O expansion](https://www.dfrobot.com/product-1867.html) (It's almost the same, connected to the I2C port) :</br>
 [![image.png](https://i.postimg.cc/K88BX1dX/image.png)](https://postimg.cc/56D6L24p)
