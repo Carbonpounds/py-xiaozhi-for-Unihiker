@@ -1,5 +1,5 @@
 # py-xiaozhi-for-Unihiker
-## 本分支仓库已搬运到Gitee，网速慢的朋友可以在Gitee找同名仓库
+## 本分支仓库已搬运到Gitee，网速慢的朋友可以在Gitee找，[直链](https://gitee.com/carbonpounds/py-xiaozhi3)
 以下内容为main分支原文：</br>
 The following is the original text of the main branch:</br>
 ***用python实现的小智客户端***,用于代码学习和在没有硬件条件下体验AI小智的语音功能</br>
