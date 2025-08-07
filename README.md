@@ -37,7 +37,7 @@ Start here↓
 
 ## 更新了什么？
 ***What's new?*** </br>
-* main分支可用于Linux使用。行空板自带Linux操作系统和python环境，理论上本项目可以用于行空板的Linux操作系统。</br>
+* main分支可用于Linux。行空板自带Linux操作系统和python环境，理论上本项目可以用于行空板的Linux操作系统。</br>
 * The main branch is available for Linux use. The Unihiker comes with Linux operating system and python environment, and theoretically this project can be used for the Linux operating system of the Unihiker.</br>
 * 主要源代码来源于 DFRobot社区 云天 [**原帖**](https://mc.dfrobot.com.cn/thread-324368-1-1.html)</br>
 * The main source code is from the DFRobot community. [**Original post**](https://mc.dfrobot.com.cn/thread-324368-1-1.html)</br>
